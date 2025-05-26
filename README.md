@@ -10,11 +10,9 @@
 ・1人
 
 
-[使用ツール]
+[開発環境]
 ・DXライブラリ(C++)
-・unity (asset storeのみ)
-・visual studio 2022
-・Photoshop 2022 (背景画像、石の画像等)
+・Visual Studio 2022
 
 
 [プレイ動画]
